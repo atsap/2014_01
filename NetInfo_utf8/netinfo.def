@@ -1,0 +1,56 @@
+[Interface 1]
+device_name = Bluetooth 裝置 (個人區域網路)
+registry_index = 
+connection_name = Bluetooth 網路連線
+ip_address = 0.0.0.0
+status = Hardware Disconnected
+mac_address = 
+
+[Interface 2]
+device_name = Intel(R) 82579LM Gigabit Network Connection
+registry_index = 0016
+connection_name = Local Area Connection
+ip_address = 192.168.0.194
+status = Operational
+mac_address = 00-21-CC-5E-13-F4
+
+[Interface 3]
+device_name = Intel(R) Centrino(R) Advanced-N 6205
+registry_index = 0009
+connection_name = Wireless Connection
+ip_address = 10.34.72.213
+status = Non-Operational
+mac_address = A0-88-B4-38-B7-E4
+
+[Interface 4]
+device_name = Juniper Network Connect Virtual Adapter
+registry_index = 0013
+connection_name = Network Connect Adapter
+ip_address = 0.0.0.0
+status = Non-Operational
+mac_address = 00-FF-F0-62-84-07
+
+[Interface 5]
+device_name = Microsoft Virtual WiFi Miniport Adapter
+registry_index = 0020
+connection_name = 無線網路連線 2
+ip_address = 0.0.0.0
+status = Hardware Disconnected
+mac_address = 
+
+[Interface 6]
+device_name = Microsoft Virtual WiFi Miniport Adapter
+registry_index = 0020
+connection_name = xxx
+ip_address = 0.0.0.0
+status = Non-Operational
+mac_address = A0-88-B4-38-B7-E5
+
+[Interface 7]
+device_name = Realtek USB GBE Family Controller
+registry_index = 0007
+connection_name = 區域連線
+ip_address = 192.168.0.192
+status = Hardware Disconnected
+mac_address = 
+
